@@ -45,7 +45,6 @@ def check_number(password):
 def check_symbol(password):
   has_char = False
   for char in password:
-    
     if not char.isalnum():
       has_char = True
       break
@@ -56,11 +55,12 @@ def check_symbol(password):
   return has_char
   
 def check_dolphin(password):
-  has_dolphin= False
+  has_dolphin = False
   if "dolphin" in password.lower():
     has_dolphin = True
   else:
     print("password must include the word dolphin")
+    
   return has_dolphin
 
 
