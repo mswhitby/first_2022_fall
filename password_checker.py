@@ -60,7 +60,7 @@ def check_dolphin(password):
     has_dolphin = True
   else:
     print("password must include the word dolphin")
-    
+
   return has_dolphin
 
 
@@ -69,5 +69,5 @@ def check_dolphin(password):
 password = user_password()
 # rule_1 = check_capital_letter(password)
 # rule_2 = check_number(password)
-#rule_3 = check_symbol(password)
+# rule_3 = check_symbol(password)
 rule_4 = check_dolphin(password)
