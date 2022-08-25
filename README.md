@@ -3,4 +3,4 @@
 
 [Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
-[Turtle Art](https://realpython.com/beginners-guide-python-turtle/)
+[A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
